@@ -1,5 +1,4 @@
-# assignment-5-idea-challenge-affordable-parcel-tracking
-assignment-5-idea-challenge-affordable-parcel-tracking created by GitHub Classroom
+Team Members: 1.  Chinmay Mahajan 2. Pranay Ponnappa S K 3. Wei Wang
 
 Public link of our project road map
 http://www.xmind.net/m/fdRq

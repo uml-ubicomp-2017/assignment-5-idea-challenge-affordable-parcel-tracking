@@ -1,0 +1,66 @@
+DifferenceMaker Idea Challenge Idea Plan
+ 
+ 
+ 
+Project Title (50 words or less)
+Parcel Tracker
+
+Project Concept (200 words or less): Provide us with a brief summary of your project.
+Describe your project and the problem it addresses.
+When we use postal service, there are lots of inconvenience that the package lost or sometimes we don’t know the postman knock the door even we can not track the mail accuracy.  We did a survey and we found that 25% people said USPS lost their package , 12.5 % said UPS lost their package, 32% said other courier companies while 0% voted for FedX.
+ We want to build a realtime parcel tracker to solve this problem which will track your parcel and send the exact location to you.
+
+
+Problem (200 words or less): Provide us with a detailed summary of the specific problem you are looking to solve.
+What is the specific problem that your project is going to solve? (e.g. hard to afford/expensive prosthetic devices)
+                           
+            
+                
+                    
+                        
+Today’s rate at which clients do call the tracking agents and also the rate at which clients visit the courier company office to confirm the status of the parcel they sent through the courier company is too high . At times, the courier company may not be able to say precisely whether the parcel has been delivered or not due to inadequate means of communication to the company while on journey and secondly, it is more prone to error due to data lost. The data entry and validation aspect of the old system are done manually, the system use the data entered as the basis for the tutorials schedule while all documents given to the clients are generated from the data collected and result of processed data for use. This process is often associated with high-levels of manual processing, limited tracking visibility and poor customer service . Also In critical condition (when vehicle is stolen), one is confused what to do If one has something expensive and he wants to check it regularly. We are planning to develop a tracker which will  track the package in realtime and will update you where the package exactly is and reduce the cost of lost package and other hassle .
+
+
+Opportunity (800 words or less): Demonstrate your knowledge of the actual opportunity associated with your project. This includes numbers and market research/data on how many people are affected by the problem you stated in Section 1. Clearly discuss any research you conducted, including:
+Data on real-life people/customers you have talked to, interviewed, and/or surveyed who are actually affected by the problem or could benefit from your proposed project solution that you stated in Section 1 (e.g. 10 doctors about a new medical device)
+Is there another organization(s) or business(es) doing something similar to your project? If so, who are they and what are they doing similarly?
+Online research, numbers, databases and articles you found that supports the need and demand for your project
+Why is your project better/different than there’s? (Competitor Analysis)
+A.
+We did a survey and we found that 25% people said USPS lost their package , 12.5 % said UPS lost their package, 32% said other courier companies while 0% voted for FedX. here is the link for the survey 
+https://www.eurosender.com/blog/lost-package/
+
+Also on personal note, We and Our friends had delivery problems many times. My friend ordered a computer online and the postman try to deliver the package and ask for a sign,but my friend in the second floor and can not hear the postman,finally he missed his computer. I have bought a jeans online it’s showed delivered but I can’t find it near my mail box after the merchant send me another jean.Because of those I think it’s a common problems that everyone might meet. For consumer it’s convenient to know where the parcel exactly is and we can receive the package in plan. For merchant and post service it’s can reduce the cost of the deliver problem.
+B.
+C.https://www.choice.com.au/shopping/shopping-for-services/services/articles/parcel-delivery-and-postal-issues
+D.
+ (800 words or less): Describe the solution you are proposing to the problem you addressed in Section 1. Please support your claims.
+Clearly describe your proposed solution (e.g. low cost prosthetic limbs)
+How does this specific solution solve the problem you stated above?
+How is your solution new, innovative and/or unique?
+How will your solution be sustained over time? Please provide details and be clear. (e.g. Will you work on it after you graduate? Pass it off to someone else? How will your idea continue on in the years to come?)
+What stage of development is your project in? (Idea stage, prototyping/testing stage, raising funds stage, ready to launch stage)
+Why is your project valuable? What value does your solution provide? To who? (Value Proposition)
+A. The device is rental to customer and maintain by the postal office.
+B. For the device cost we prefer rent rather than buy. When the device is rental we can update the quality and the performance and it’s easy to maintain. The postal service and the merchant can cooperation to buy the device and hold a deposit of customer to rent. And it’s can add a little rental fee to the device, it’s depend on the customer if they chose the parcel tracker and it’s concept can think as insurance. 
+For the maintain of the device, we can use wireless charge to charge the device and the postal service can built a wireless charger station on each check point to make sure the device work properly on the journey.  
+C. It’s realtime and accuracy to know where the package is. For the customer it’s easy to know the package location and won’t miss the postman in case the package is lost it’s easy to trace back. For the merchant and postal service it’s can efficient reduce the cost of deliver problem, if the device used for a long term there is no cost even can make some money through rent.
+D.First we built the product include the hardware and software. For the hardware we can search the existing product and do some research and update it. After that we can develop the corresponding  software. When we make a simple demo we can market the product to some company. 
+E. Idea stage.
+F.Our project is provide for everyone who disturb by the deliver problems. And is benefit for both customer merchant and postal service.
+
+
+Resources (500 words or less): Demonstrate why you need funding from the DifferenceMaker Idea Challenge.
+How much funding do you require to implement your project?
+How much time will you and your team members commit to your project after the Idea Challenge?
+How will these DifferenceMaker funds be used to support your project?
+Please provide an estimated budget for use of DifferenceMaker funds from May 2015-2016.
+A. We would be requiring a funding of roughly $1200
+B. We will require 12 months to build the end to end system.
+C. For  development, quality check and marketing of the product.
+D. a. Procuring the instruments and sensors: Between May - August 2017: $400
+     b. Product integration: August - October 2017: $100
+     b. Development of Web/SMS portal: October - December 2017: $100
+     c. Quality analysis: October - December 2017 - January 2018: $200
+     d. Marketing: January - May 2018: $400
+
